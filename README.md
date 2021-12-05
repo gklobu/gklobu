@@ -38,11 +38,11 @@ Hi! I'm Gian; I'm a data scientist with a broad background including predictive 
 
 ### What else have you done?
 
-👩🏻‍💻 I worked as a data scientist/analyst/person-who-does-stats-and-computer-things at [NBCUniversal](https://www.nbcuniversal.com/), [Etsy](https://www.etsy.com/), and [HBO](https://www.hbo.com)
+👩🏻‍💻 Worked as a data scientist/analyst/person-who-does-stats-and-computer-things at [NBCUniversal](https://www.nbcuniversal.com/), [Etsy](https://www.etsy.com/), and [HBO](https://www.hbo.com)
 
-👩🏻‍🏫 I taught a course on analytics with python at the [NYC Data Science Academy](https://nycdatascience.com/) for a while
+👩🏻‍🏫 Taught a course on analytics with python at the [NYC Data Science Academy](https://nycdatascience.com/) for a while
 
-🧠 I was a research assistant (RA) for cognitive science labs at [U. Rochester](https://www.unige.ch/fapse/brainlearning/) and [Temple U.](https://sites.temple.edu/cnltu/)
+🧠 Worked as a research assistant (RA) for cognitive science labs at [U. Rochester](https://www.unige.ch/fapse/brainlearning/) and [Temple U.](https://sites.temple.edu/cnltu/)
 
 ### What are your research interests?
 
