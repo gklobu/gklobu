@@ -63,4 +63,4 @@ You can find me on on LinkedIn and Twitter (I'm not really active on either, tbh
 
 I got ya.
 
-<img src="https://github.com/gklobu/gklobu/blob/main/giphy.gif" width="30px">
+<img src="https://github.com/gklobu/gklobu/blob/main/giphy.gif" width="500px">
