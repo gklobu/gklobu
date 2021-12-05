@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 [![Header](https://github.com/gklobu/gklobu/blob/main/coverpic.jpg "Header")](https://linkedin.com/in/gianklo)
 
 ![](https://img.shields.io/badge/<tool>-<python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<tool>-<R>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<tool>-<pymc>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<skill>-<ETL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<skill>-<experimentation>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<skill>-<inference>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<skill>-<Bayesian modeling>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
