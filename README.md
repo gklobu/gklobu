@@ -57,3 +57,10 @@ You can find me on on LinkedIn and Twitter (I'm not really active on either, tbh
 
 <a href="https://www.linkedin.com/in/gianklo/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://twitter.com/gkdatastuff"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+
+
+### I'm bored. How about a gif of Bjork?
+
+I got ya.
+
+<img src="https://github.com/gklobu/gklobu/blob/main/giphy.gif" width="30px">
