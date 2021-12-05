@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 -->
 
 [![Header](https://github.com/gklobu/gklobu/blob/main/coverpic.jpg "Header")](https://linkedin.com/in/gianklo)
+
+![](https://img.shields.io/badge/<tool>-<python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
