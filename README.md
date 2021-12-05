@@ -30,18 +30,24 @@ Here are some ideas to get you started:
 ### Who are you?
 Hi! I'm Gian; I'm a data scientist with a broad background including predictive modeling, experimentation, and a little bit of cognitive science.
 
-### What are you up to?
+### What are you up to lately?
 💼 I've been a Data Scientist @ Meta since 2018, mostly focused on experimentation and measurement strategy.
 
-👩🏻‍💻 I'm also a part-time grad student in [Columbia's QMSS program](https://qmss.columbia.edu/)
+📓 I'm also a part-time grad student in [Columbia's QMSS program](https://qmss.columbia.edu/)
+
 
 ### What else have you done?
+
 👩🏻‍💻 I worked as a data scientist/analyst/person-who-does-stats-and-computer-things at [NBCUniversal](https://www.nbcuniversal.com/), [Etsy](https://www.etsy.com/), and [HBO](https://www.hbo.com)
+
 👩🏻‍🏫 I taught a course on analytics with python at the [NYC Data Science Academy](https://nycdatascience.com/) for a while
+
 🧠 I was a research assistant (RA) for cognitive science labs at [U. Rochester](https://www.unige.ch/fapse/brainlearning/) and [Temple U.](https://sites.temple.edu/cnltu/)
 
 ### What are your research interests?
+
 🧪 Mostly research methods, but I'm also into Bayesian stats, social media, news media, and cognitive science 
+
 📚 Also interested in learning more about computational social sciences and the digital humanities
 
 ### Where else can I find you?
