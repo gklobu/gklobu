@@ -40,9 +40,10 @@ Hi! I'm Gian; I'm a data scientist with a broad background including predictive 
 
 👩🏻‍💻 Worked as a data scientist/analyst/person-who-does-stats-and-computer-things at [NBCUniversal](https://www.nbcuniversal.com/), [Etsy](https://www.etsy.com/), and [HBO](https://www.hbo.com)
 
-👩🏻‍🏫 Taught a course on analytics with python at the [NYC Data Science Academy](https://nycdatascience.com/) for a while
-
 🧠 Worked as a research assistant (RA) for cognitive science labs at [U. Rochester](https://www.unige.ch/fapse/brainlearning/) and [Temple U.](https://sites.temple.edu/cnltu/)
+
+👩🏻‍🏫 Taught a course on analytics with python at the [NYC Data Science Academy](https://nycdatascience.com/)
+
 
 ### What are your research interests?
 
@@ -59,7 +60,7 @@ You can find me on on LinkedIn and Twitter (I'm not really active on either, tbh
 <a href="https://twitter.com/gkdatastuff"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 
 
-### I'm bored. How about a gif of Bjork?
+### I'm bored. How about some Bjork?
 
 I got ya.
 
