@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 Hi! I'm Gian; I'm a data scientist with a broad background including predictive modeling, experimentation, and a little bit of cognitive science.
 
 ### What are you up to lately?
-💼 I've been a Data Scientist @ Meta since 2018, mostly focused on experimentation and measurement strategy.
+💼 I've been a Data Scientist @ Meta since 2018, mostly focused on experimentation and measurement strategy. I don't represent Meta or any of its subsidiaries in any way. Any views that I express online or elsewhere are my own and do not necessarily reflect the views of any other person, company, or entity.
 
 📓 I'm also a part-time grad student in [Columbia's QMSS program](https://qmss.columbia.edu/)
 
