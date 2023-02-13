@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 # Let's do some Q&A
 
 ### Who are you?
-Hi! I'm Gian; I'm a data scientist with a broad background including predictive modeling, experimentation, and a little bit of cognitive science.
+Hi! I'm Gian Klobusicky; I'm a data scientist, focused on experimentation and team building.
 
 ### What are you up to lately?
 💼 I've been a Data Scientist @ Meta since 2018, mostly focused on experimentation and measurement strategy. I don't represent Meta or any of its subsidiaries in any way. Any views that I express online or elsewhere are my own and do not necessarily reflect the views of any other person, company, or entity.
@@ -38,7 +38,7 @@ Hi! I'm Gian; I'm a data scientist with a broad background including predictive 
 
 ### What else have you done?
 
-👩🏻‍💻 Worked as a data scientist/analyst/person-who-does-stats-and-computer-things at [NBCUniversal](https://www.nbcuniversal.com/), [Etsy](https://www.etsy.com/), and [HBO](https://www.hbo.com)
+👩🏻‍💻 Worked as a data scientist/analyst/person-who-does-researchy-things at [NBCUniversal](https://www.nbcuniversal.com/), [Etsy](https://www.etsy.com/), and [HBO](https://www.hbo.com)
 
 🧠 Worked as a research assistant (RA) for cognitive science labs at [U. Rochester](https://www.unige.ch/fapse/brainlearning/) and [Temple U.](https://sites.temple.edu/cnltu/)
 
@@ -47,7 +47,7 @@ Hi! I'm Gian; I'm a data scientist with a broad background including predictive 
 
 ### What are your research interests?
 
-🧪 Mostly research methods, but I'm also into Bayesian stats, social media, news media, and cognitive science 
+🧪 Mostly research methods, but I'm also into social media, news media, and cognitive science 
 
 📚 Also interested in learning more about computational social sciences and the digital humanities
 
@@ -58,10 +58,3 @@ You can find me on on LinkedIn and Twitter (I'm not really active on either, tbh
 
 <a href="https://www.linkedin.com/in/gianklo/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://twitter.com/gkdatastuff"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-
-
-### I'm bored. How about some Bjork?
-
-I got ya.
-
-<img src="https://github.com/gklobu/gklobu/blob/main/giphy.gif" width="500px">
