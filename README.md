@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 # Let's do some Q&A
 
 ### Who are you?
-Hi! I'm Gian Klobusicky; I'm a data scientist, focused on experimentation and team building.
+Hi! I'm Gian Klobusicky. I'm a data scientist with a focus on experimentation and team building.
 
 ### What are you up to lately?
 💼 I've been a Data Scientist @ Meta since 2018, mostly focused on experimentation and measurement strategy. I don't represent Meta or any of its subsidiaries in any way. Any views that I express online or elsewhere are my own and do not necessarily reflect the views of any other person, company, or entity.
