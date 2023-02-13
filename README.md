@@ -52,7 +52,7 @@ Importantly, I don't represent Meta or any of its subsidiaries in any way. Any v
 
 ### Where else can I find you?
 
-You can find me on on LinkedIn and Twitter (I'm not really active on either, tbh):
+You can find me on LinkedIn and Twitter (I'm not really active on either, tbh):
 
 <a href="https://www.linkedin.com/in/gianklo/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://twitter.com/gkdatastuff"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
