@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 Hi! I'm Gian Klobusicky. I'm a data scientist with a focus on experimentation and team building.
 
 ### What are you up to lately?
-💼 I'm Data Scientist at Meta, working mostly on experimentation and measurement strategy. I converted to tech lead manager in early 2022 so I could lead a team focused on experimental methods. 
+💼 I'm a Data Scientist at Meta, working mostly on experimentation and measurement strategy. I converted to tech lead manager in early 2022 so I could lead a team focused on experimental methods. 
 Importantly, I don't represent Meta or any of its subsidiaries in any way. Any views that I express online or elsewhere are my own and do not necessarily reflect the views of any other person, company, or entity.
 
 📓 I'm a part-time grad student in [Columbia's QMSS program](https://qmss.columbia.edu/)
