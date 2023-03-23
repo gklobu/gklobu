@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://github.com/gklobu/gklobu/blob/main/coverpic2.jpg "Header")](https://linkedin.com/in/gianklo)
+[![Header](https://github.com/gklobu/gklobu/blob/80844a904ba4f8231bc4e502d15a136b22183047/coverpic.png "Header")](https://linkedin.com/in/gianklo)
 
 ![](https://img.shields.io/badge/<tool>-<python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<tool>-<R>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -25,34 +25,41 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/<skill>-<writing>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<skill>-<ETL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-# Let's do some Q&A
+# Gian Klobusicky
+## Data scientist with a focus on experimentation and strategy, particularly operational frameworks.
 
-### Who are you?
-Hi! I'm Gian Klobusicky. I'm a data scientist with a focus on experimentation and team building.
+### Current Focus
+💼 Data Science Tech Lead Manager at Meta, focused on experimentation and measurement strategy.
+* Importantly, I don't represent Meta or any of its subsidiaries in any way. Any views that I express online or elsewhere are my own and do not necessarily reflect the views of any other person, company, or entity.
 
-### What are you up to lately?
-💼 I'm a Data Scientist at Meta, working mostly on experimentation and measurement strategy. I converted to tech lead manager in early 2022 so I could lead a team focused on experimental methods. 
-Importantly, I don't represent Meta or any of its subsidiaries in any way. Any views that I express online or elsewhere are my own and do not necessarily reflect the views of any other person, company, or entity.
+📓 Part-time graduate studies in [Columbia's QMSS program](https://qmss.columbia.edu/)
 
-📓 I'm a part-time grad student in [Columbia's QMSS program](https://qmss.columbia.edu/)
+### Past Work
+
+📺 Strategic analytics, user research, and forecasting for linear television and news websites at [NBCUniversal](https://www.nbcuniversal.com/)
+
+📺 Forecasting and topic modeling for digital video content at [HBO](https://www.hbo.com)
+
+🧶 Marketing analytics, experimentation, and measurement at [Etsy](https://www.etsy.com/)
+
+🧠 Social cognition and vision science experiments at [Temple U.](https://sites.temple.edu/cnltu/), as a Research Assistant
+
+🧠 Vision science and decision-making expeirments at [U. Rochester](https://www.unige.ch/fapse/brainlearning/), as a Research Assistant
+
+👩🏻‍🏫 Teaching Python for Data Analysis at the [NYC Data Science Academy](https://nycdatascience.com/)
 
 
-### What else have you done?
+### Research Interests
 
-👩🏻‍💻 Worked as a data scientist/analyst/person-who-does-researchy-things at [NBCUniversal](https://www.nbcuniversal.com/), [Etsy](https://www.etsy.com/), and [HBO](https://www.hbo.com)
+🧪 Research methods
 
-🧠 Worked as a research assistant (RA) for cognitive science labs at [U. Rochester](https://www.unige.ch/fapse/brainlearning/) and [Temple U.](https://sites.temple.edu/cnltu/)
+📺 Media
 
-👩🏻‍🏫 Taught a course on analytics with python at the [NYC Data Science Academy](https://nycdatascience.com/)
+🧠 Behavioral sciences
 
+### Links
 
-### What are your research interests?
-
-🧪 Mostly research methods, but I'm also into media and the behavioral sciences
-
-### Where else can I find you?
-
-You can find me on LinkedIn and Twitter (I'm not really active on either, tbh):
+You can find me on LinkedIn and Twitter:
 
 <a href="https://www.linkedin.com/in/gianklo/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://twitter.com/gkdatastuff"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
