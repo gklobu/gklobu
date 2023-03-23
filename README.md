@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ## Data scientist with a focus on experimentation and strategy, particularly operational frameworks.
 
 ### Current Focus
+I'm currently focused on developing organizational frameworks and strategies to help data science teams operate more effectively. Much of my work in this area centers around measurement (i.e., experimentation and causal inference studies).
+
 💼 Data Science Tech Lead Manager at Meta, focused on experimentation and measurement strategy.
 * Importantly, I don't represent Meta or any of its subsidiaries in any way. Any views that I express online or elsewhere are my own and do not necessarily reflect the views of any other person, company, or entity.
 
