@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 📓 MA degree from [Columbia's QMSS program](https://qmss.columbia.edu/)
 
+👩🏻‍🏫 Teaching Python for Data Analysis at the [NYC Data Science Academy](https://nycdatascience.com/)
+
 📺 Strategic analytics, user research, and forecasting for linear television and news websites at [NBCUniversal](https://www.nbcuniversal.com/)
 
 📺 Forecasting and topic modeling for digital video content at [HBO](https://www.hbo.com)
@@ -43,7 +45,6 @@ Here are some ideas to get you started:
 
 🧠 Vision science and decision-making expeirments at [U. Rochester](https://www.unige.ch/fapse/brainlearning/), as a Research Assistant
 
-👩🏻‍🏫 Teaching Python for Data Analysis at the [NYC Data Science Academy](https://nycdatascience.com/)
 
 
 ### Research Interests
