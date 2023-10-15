@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/<skill>-<ETL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 # Gian Klobusicky
-## Data scientist with a focus on experimentation and strategy, particularly operational frameworks.
+## Data scientist with a focus on experimentation, communication, and strategy.
 
 ### Current Focus
 I'm currently focused on developing organizational frameworks and strategies to help data science teams operate more effectively. Much of my work in this area centers around measurement (i.e., experimentation and causal inference studies).
@@ -33,9 +33,9 @@ I'm currently focused on developing organizational frameworks and strategies to 
 💼 Data Science Tech Lead Manager at Meta, focused on experimentation and measurement strategy.
 * Importantly, I don't represent Meta or any of its subsidiaries in any way. Any views that I express online or elsewhere are my own and do not necessarily reflect the views of any other person, company, or entity.
 
-📓 Part-time graduate studies in [Columbia's QMSS program](https://qmss.columbia.edu/)
-
 ### Past Work
+
+📓 MA degree from [Columbia's QMSS program](https://qmss.columbia.edu/)
 
 📺 Strategic analytics, user research, and forecasting for linear television and news websites at [NBCUniversal](https://www.nbcuniversal.com/)
 
@@ -52,7 +52,7 @@ I'm currently focused on developing organizational frameworks and strategies to 
 
 ### Research Interests
 
-🧪 Research methods
+🧪 Research methods and causal inference
 
 📺 Media
 
