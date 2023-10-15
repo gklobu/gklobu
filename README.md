@@ -25,15 +25,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/<skill>-<ETL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 # Gian Klobusicky
-## Data scientist with a focus on experimentation, communication, and strategy.
 
-### Current Focus
-I'm currently focused on developing organizational frameworks and strategies to help data science teams operate more effectively. Much of my work in this area centers around measurement (i.e., experimentation and causal inference studies).
-
-💼 Data Science Tech Lead Manager at Meta, focused on experimentation and measurement strategy.
-* Importantly, I don't represent Meta or any of its subsidiaries in any way. Any views that I express online or elsewhere are my own and do not necessarily reflect the views of any other person, company, or entity.
 
 ### Past Work
+
+💼 Managing a three-person DS team (focused on advanced experimentation) while owning measurement standards, strategy, and peer review for experiments and causal inference studies at [Meta](https://www.meta.com)
 
 📓 MA degree from [Columbia's QMSS program](https://qmss.columbia.edu/)
 
