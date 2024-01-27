@@ -48,15 +48,24 @@ Here are some ideas to get you started:
 
 
 ### Research Interests
-
-🧪 Research methods and causal inference
+🧪 Research methods, experimentation, and causal inference
 
 📺 Media
 
 🧠 Behavioral sciences
 
+### Personal Interest
+
+🎭 Broadway & Opera
+
+👟 Being a gym rat
+
+📚 Fiction
+
+
+
 ### Links
 
-You can find me on LinkedIn and Twitter:
+You can find me on LinkedIn here:
 
 <a href="https://www.linkedin.com/in/gianklo/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
